@@ -2,7 +2,7 @@
 
 ## Overview
 
-Consumer Decision Analysis using Neuromarketing Data is a Deep Learning project that leverages EEG (Electroencephalography) and eye-tracking signals to analyze consumer behavior and predict hidden purchase interest, cognitive overload, and decision reversal patterns. The project employs multiple neural network architectures, including MLP, 1D CNN, LSTM, GRU, and CNN-LSTM hybrid models, to uncover latent consumer insights beyond traditional survey-based methods..
+Consumer Decision Analysis using Neuromarketing Data is a Deep Learning project that leverages EEG (Electroencephalography) and eye-tracking signals to analyze consumer behavior and predict hidden purchase interest, cognitive overload, and decision reversal patterns. The project employs multiple neural network architectures, including MLP, 1D CNN, LSTM, GRU, and CNN-LSTM hybrid models, to uncover latent consumer insights beyond traditional survey-based methods.
 
 ---
 
